@@ -1,5 +1,7 @@
 *.png
 *.keras
 ResNet50V2-OCR-3
-data*
+data
+data2
 *.zip
+main.ipynb
